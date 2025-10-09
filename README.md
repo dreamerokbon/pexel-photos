@@ -51,7 +51,7 @@
   
   ---
   
-🧠 學習重點（What I Learned）
+## 🧠 學習重點（What I Learned）
 
 ⚛️ React Function Component 與 Props 傳遞
 熟悉父子元件資料傳遞與事件處理（Search → Homepage）。
@@ -70,4 +70,5 @@
 
 🔄 GitHub Pages SPA 修正技巧
 理解為何 React Router 刷新會 404，並使用 sessionStorage redirect 解決。
+
 
